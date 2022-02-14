@@ -1,5 +1,5 @@
 # zer.exec :wrench:
-#### A small module for executing external processes based on a terminal command.
+#### A small module for executing external programs.
 
 ## Do you want to run some program? :rocket:
 
